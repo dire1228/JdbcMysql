@@ -6,7 +6,7 @@ import java.util.List;
 public class PersonAction {
 
     public static void main(String[] args) throws Exception {
-        insert();
+//        insert();
         query();
     }
 
